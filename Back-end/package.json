@@ -1,0 +1,22 @@
+{
+  "name": "mylastproject",
+  "version": "1.0.0",
+  "description": "This is the final project to complete my training at GOMYCODE Abidjan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dak2dak/gomycode-back-end-endTraining.git"
+  },
+  "keywords": [
+    "dak2dak"
+  ],
+  "author": "Didier Dakoury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dak2dak/gomycode-back-end-endTraining/issues"
+  },
+  "homepage": "https://github.com/Dak2dak/gomycode-back-end-endTraining#readme"
+}
