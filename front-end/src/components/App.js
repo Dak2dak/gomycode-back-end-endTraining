@@ -1,10 +1,10 @@
 import '../App.css';
-import Home from './home';
+import FrontEnd from './frontEnd';
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <FrontEnd />
 
 
     </div>

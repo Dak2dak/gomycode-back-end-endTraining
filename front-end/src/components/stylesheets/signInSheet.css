@@ -1,0 +1,15 @@
+
+
+.registration {
+    width: 50%;
+}
+
+.registration_container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.registration_container h1 {
+    text-align: start;
+    margin-bottom: 1.5rem;
+}
